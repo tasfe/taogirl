@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="frameworkName">Mobile Common Framework</string>
+    <string name="frameworkVersion">1.0.0</string>
+    <string name="company"></string>
+    <string name="companyDescription"></string>    
+</resources>
